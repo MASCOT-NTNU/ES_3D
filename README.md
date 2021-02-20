@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## MASCOT (Maritime Autonomous Ocean Sampling)
+
+I can try to add more content to my website [here you go](https://wiki.math.ntnu.no/mascot) to see more information about the details.
+
 
 You can use the [editor on GitHub](https://github.com/MASCOT-NTNU/ES_3D/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
