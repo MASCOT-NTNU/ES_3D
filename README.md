@@ -1,11 +1,6 @@
 ## MASCOT (Maritime Autonomous Ocean Sampling)
 
-I can try to add more content to my website [here you go](https://wiki.math.ntnu.no/mascot) to see more information about the details.
-
-
-You can use the [editor on GitHub](https://github.com/MASCOT-NTNU/ES_3D/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For more information about the project description, please refer to [MASCOT at NTNU](https://wiki.math.ntnu.no/mascot) to see more information about the details.
 
 ### Markdown
 
